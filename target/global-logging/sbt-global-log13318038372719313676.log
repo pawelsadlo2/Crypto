@@ -1,0 +1,8 @@
+[debug] > Exec(git, None, None)
+[error] Not a valid command: git (similar: exit, plugin, set)
+[error] Not a valid project ID: git
+[error] Expected ':'
+[error] Not a valid key: git (similar: bgList, bgWaitFor, ivySbt)
+[error] git
+[error]    ^
+[debug] > Exec(idea-shell, None, None)
