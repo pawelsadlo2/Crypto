@@ -1,0 +1,14 @@
+[debug] > Exec(reload\, None, None)
+[error] Expected ID character
+[error] reload usage:
+[error]   reload   (Re)loads the current project or changes to plugins project or returns from it.
+[error] 
+[error] Expected whitespace character
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: reload (similar: onUnload, onLoad, testLoader)
+[error] reload\
+[error]       ^
+[debug] > Exec(idea-shell, None, None)
