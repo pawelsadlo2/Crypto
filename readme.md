@@ -1,8 +1,10 @@
+This applicaton uses external crypto api to get data for cryptocurrencies, it exposes two endpoints to play with
+
 Exposed endpoints:
 
 1. get exchange forecast from one crypto to others including fee
 
-Request:POST /currencies/exchange
+Request: POST /currencies/exchange
 Request body example:  {"from":"BTC","to":["ETH","USD"],"amount":121}
 
 Response body example:
